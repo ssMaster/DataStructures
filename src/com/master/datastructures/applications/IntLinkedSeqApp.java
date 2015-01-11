@@ -1,6 +1,6 @@
-package com.master.applications;
+package com.master.datastructures.applications;
 
-import com.master.linkedlists.IntLinkedSeq;
+import com.master.datastructures.linkedlists.IntLinkedSeq;
 
 /**
  *

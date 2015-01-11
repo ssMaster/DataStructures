@@ -1,9 +1,9 @@
 /*
 This program reads some words into bags. A silly story is written using these words.
 */
-package com.master.applications;
+package com.master.datastructures.applications;
 
-import com.master.generics.ArrayBag;
+import com.master.datastructures.generics.ArrayBag;
 import java.util.Scanner;
 
 /**

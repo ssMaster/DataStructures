@@ -1,7 +1,8 @@
-package com.master.linkedlists;
+package com.master.tests.linkedlists;
 
 //import org.junit.AfterClass;
 //import org.junit.BeforeClass;
+import com.master.datastructures.linkedlists.IntLinkedSeq;
 import org.junit.Test;
 import static org.junit.Assert.*;
 

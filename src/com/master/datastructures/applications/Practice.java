@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.master.applications;
+package com.master.datastructures.applications;
 
-import com.master.linkedlists.IntNode;
+import com.master.datastructures.linkedlists.IntNode;
 
 /**
  *

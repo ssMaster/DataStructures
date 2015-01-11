@@ -4,7 +4,7 @@
  * variable head 3. The total number of elements in the list is stored in the
  * instance variable manyNodes
  */
-package com.master.linkedlists;
+package com.master.datastructures.linkedlists;
 
 /**
  * A collection of integer numbers Limits: 1) Beyond Int.MAX_VALUE elements,

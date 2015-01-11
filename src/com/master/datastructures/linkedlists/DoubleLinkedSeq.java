@@ -1,4 +1,4 @@
-package com.master.linkedlists;
+package com.master.datastructures.linkedlists;
 
 /**
  *

@@ -9,7 +9,7 @@
        Any attempt to create a larger capacity results in failure due to an arithmetic overflow.
     3. Because of the slow linear algorithms of this class, large bags will have poor performance.
   */
-package com.master.generics;
+package com.master.datastructures.generics;
 
 /**
  * A generic ArrayBag
